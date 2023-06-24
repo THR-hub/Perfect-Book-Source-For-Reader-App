@@ -8,5 +8,5 @@
 
 #### 使用说明
 
-方法一：下载[最新书源](https://gitee.com/T_H_R-hub/perfect-proofreading-source/raw/master/BookSourceLasted.json)，在阅读APP备份原有书源后清空原有书源，本地导入此书源。
+方法一：下载[最新书源](https://github.com/THR-hub/Perfect-Book-Source-For-Reader-App/raw/main/BookSourceLasted.json)，在阅读APP备份原有书源后清空原有书源，本地导入此书源。
 方法二：备份原有书源后网络导入，链接从上面复制。
